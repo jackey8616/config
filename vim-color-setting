@@ -1,0 +1,2 @@
+git clone https://github.com/strong-Ting/vim-colors-solarized.git
+mv colors /usr/share/share/vim7X/colors

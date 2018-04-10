@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="decrease_height" mtime="1501686046" type="string">
+		<stringvalue>&lt;Super&gt;Down</stringvalue>
+	</entry>
+	<entry name="increase_height" mtime="1501686038" type="string">
+		<stringvalue>&lt;Super&gt;Up</stringvalue>
+	</entry>
+</gconf>
