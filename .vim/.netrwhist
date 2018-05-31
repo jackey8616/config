@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/clode/Program/jackey8616.github.io/source/_posts/CTF/pwnable-kr'
+let g:netrw_dirhist_2='/home/clode/Program/YunOSC.github.io/source'
+let g:netrw_dirhist_3='/home/clode/Program/YunOSC.github.io/scripts'

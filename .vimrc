@@ -10,5 +10,5 @@ syntax enable
 let g:solarized_termtrans = 1       
 let g:solarized_termcolors = 256
 set background=dark
-colorscheme solarized
 hi Normal ctermbg=none 
+au BufNewFile,BufRead *.ejs set filetype=ejs
